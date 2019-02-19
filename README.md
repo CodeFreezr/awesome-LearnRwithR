@@ -41,11 +41,14 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [rdocumentation.org](https://www.rdocumentation.org/packages/learnr) - Package Documentation. 
 - [libraries.io](https://libraries.io/cran/learnr) - Page on Libraries.io.
 - [rdrr.io](https://rdrr.io/cran/learnr/) - Page on rdrr.io.
+##### Based on LearnR
+
 
 #### Swirl Stuff
 ##### Official Links
 - [swirlstats.com](https://swirlstats.com/) - Official Homepage of the Package. 
 - [github-repo for package](https://github.com/swirldev/swirl) - Official github repository for the package.  
+- [github-repo for swirlify](https://github.com/swirldev/swirlify) - Toolbox for writing swirl courses.
 - [github-repo for courses](https://github.com/swirldev/swirl_courses) - Official github repository for the courses, see also  [Made with Swirl](#Made-with-Swirl).
 ##### References
 - [rdocumentation.org](https://www.rdocumentation.org/packages/swirl/) - Package Documentation. 
@@ -55,21 +58,72 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 ##### Community
 - [twitter](https://twitter.com/swirlstats) - Twitter Account.
 - [google.group](https://groups.google.com/forum/#!forum/swirl-discuss) - Discussion Group.
-  
+
+
   
 ### Tutorials Guides & Courses
 #### Made with LearnR
 ##### Examples by RStudio
-- [Setting Up R](https://jjallaire.shinyapps.io/learnr-tutorial-00-setup/) - Set up your computer to use R, *JJ Allaire* 
-- [Data Basics](https://jjallaire.shinyapps.io/learnr-tutorial-01-data-basics) - Learn how to look at data with R, *JJ Allaire* 
-- [Filtering Observations](https://jjallaire.shinyapps.io/learnr-tutorial-03a-data-manip-filter/) - Learn how to filter your data, *JJ Allaire*  
-- [Sumarizing Data](https://jjallaire.shinyapps.io/learnr-tutorial-03c-data-manip-summarise/) - Learn how to summarise a table of data, *JJ Allaire*  
-- [Creating New Variables](https://jjallaire.shinyapps.io/learnr-tutorial-03b-data-manip-mutate/) - Learn how to derive new variables from a data frame, *JJ Allaire* 
+- [Setting Up R](https://jjallaire.shinyapps.io/learnr-tutorial-00-setup/) - Set up your computer to use R, *JJ Allaire*. 
+- [Data Basics](https://jjallaire.shinyapps.io/learnr-tutorial-01-data-basics) - Learn how to look at data with R, *JJ Allaire*.
+- [Filtering Observations](https://jjallaire.shinyapps.io/learnr-tutorial-03a-data-manip-filter/) - Learn how to filter your data, *JJ Allaire*.  
+- [Sumarizing Data](https://jjallaire.shinyapps.io/learnr-tutorial-03c-data-manip-summarise/) - Learn how to summarise a table of data, *JJ Allaire*.  
+- [Creating New Variables](https://jjallaire.shinyapps.io/learnr-tutorial-03b-data-manip-mutate/) - Learn how to derive new variables from a data frame, *JJ Allaire*. 
 
-##### Other Courses
-- [vegawidget Overview](https://ijlyttle.shinyapps.io/vegawidget-overview/) - Learn vegawidgets, *Ian Lyttle*
+##### Online Courses
+- [vegawidget Overview](https://ijlyttle.shinyapps.io/vegawidget-overview/) - Learn vegawidgets, *Ian Lyttle*.
+- [Data Literacy](https://tladeras.shinyapps.io/dataLiteracy/) - Understanding Visualizations, *Ted Laderas*.
+- [OHSU Tutorial](https://minnier.shinyapps.io/ODSI_continuousData/) Tutorial for OHSU Data Science Institute, see also [github](https://github.com/laderast/DSIExplore) - *Ted Laderas* and *Jessica Minnier*. 
+- [Tidyeval](https://ijlyttle.shinyapps.io/tidyeval/) - by *Ian Lyttle*.
 
-- []()  
+
+##### Courses as package
+- [learningAnalytics](https://bradleyboehmke.github.io/learningAnalytics/) - Tutorials covering various statistical techniques by *Brad Boehmke*.  
+    1. “Hello”: An introduction to learningAnalytics
+    2. “EDA”: Exploratory Data Analysis
+    3. “Unsupervised”: Principal Components Analysis & Cluster Analysis
+    4. “Linear Regression”: Linear Regression
+    5. “Supervised Classification”: Logistic Regression & Discriminant Analysis
+    6. “Resampling”: Leave-One-Out Cross-Validation, k-Fold Cross Validation, & Bootstrapping
+    7. “Model Selection”: Best Subset & Stepwise Selection for Linear Models
+- [trainR](https://trainr.rsquaredacademy.com/) - Interactive R Tutorials by *Aravind Hebbali*.
+    1. data-wrangling-with-dplyr-part-1
+    2. data-wrangling-with-dplyr-part-2
+    3. data-wrangling-with-dplyr-part-3
+    4. hacking-strings-with-stringr
+    5. import-data-in-r-part-1
+    6. import-data-in-r-part-2
+    7. introduction-to-tibbles
+    8. readable-code-with-pipes
+    9. work-with-date-and-time-in-R
+    10. working-with-categorical-data
+- [rexercises](https://github.com/nlhuong/rexercises) - R-Exercises by *Lan Huong Nguyen*.
+    1. data_to_R
+    2. vectors_and_matrices
+    3. lists_and_data_frames
+    4. programming
+    5. plotting
+- [RKurs](https://github.com/strengejacke/RKurs) - German R Exercises by  *Daniel Lüdecke*. 
+- [YARD](https://github.com/pegeler/YARD) - Yet Another R Demo by *Paul Egeler*.
+- [adventr](https://github.com/profandyfield/adventr) - An Adventure in Statistics by *Andy Field*, see also [Book-Page](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/).  
+    1. Why you need science
+    2. Reporting research, variables and measurement
+    3. Summarizing Data
+    4. Fitting models (central tendency)
+    5. Presenting data
+    6. z-scores
+    7. Probability
+    8. Inferential statistics
+    9. Robust estimation
+    10. Hypothesis testing
+    11. Modern approaches to theory testing
+    12. Assumptions
+    13. Relationships
+    14. The general linear model
+    15. comparing two means
+    16. Comparing several means
+    17. Factorial designs
+
 
 #### Made with Swirl
 - []()  
@@ -78,8 +132,9 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 
 ### Further Resources
-- []()  
-- []()  
-- []()  
+- [Awesome R](https://awesome-r.com/)  
+- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)  
+- [makemeanalyst](http://makemeanalyst.com/)  
+- [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
 
 
