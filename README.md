@@ -5,7 +5,7 @@ A curated list of learnR and {swirl} related resources. LearnR and {swirl} are R
 ![learnrwithr](static/combined-logo.png)
 
 
-In the first part you find links to source code, documentation & community of the packages itseld. In the second part we list courses made with learnR or {swirl}. A third part list further resources for learning R.
+In the first part you find links to source code, documentation & community of the packages itself. In the second part we list courses made with learnR or {swirl}. A third part list further resources for learning R.
 
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
@@ -21,11 +21,15 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
   * [Made with Swirl](#Made-with-Swirl)  
 
 * [Further Resources](#Further-Resources)
+  
 
 
 
 
 
+
+
+    
 ## Content
 ### R-Package Links
 #### LearnR Stuff
