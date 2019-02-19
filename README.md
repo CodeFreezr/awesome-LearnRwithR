@@ -23,13 +23,8 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 * [Further Resources](#Further-Resources)
   
 
-
-
-
-
-
-
-    
+---
+ 
 ## Content
 ### R-Package Links
 #### LearnR Stuff
@@ -41,7 +36,6 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [rdocumentation.org](https://www.rdocumentation.org/packages/learnr) - Package Documentation. 
 - [libraries.io](https://libraries.io/cran/learnr) - Page on Libraries.io.
 - [rdrr.io](https://rdrr.io/cran/learnr/) - Page on rdrr.io.
-##### Based on LearnR
 
 
 #### Swirl Stuff
@@ -126,9 +120,24 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 
 #### Made with Swirl
-- []()  
-- []()  
-- []()  
+- [Advanced R](https://swirlstats.com/scn/arp.html) - Advanced R Programming by *Roger Peng*
+- [ConoceR](https://swirlstats.com/scn/conocer.html) - ConoceR by *David Duncan*
+- [DataScience](https://swirlstats.com/scn/dsandr.html) - Data Science and R by *Wush Wu*
+- [EDA](https://swirlstats.com/scn/eda.html) - Exploratory Data Analysis by *Team swirl*
+- [GetCleanData](https://swirlstats.com/scn/getclean.html) - Getting and Cleaning Data by *Team swirl*
+- [Google Forms](https://swirlstats.com/scn/gfc.html) - Google Forms Course by *Sean Kross*
+- [Estadistica](https://swirlstats.com/scn/estadistica.html) - Programacion Estadistica R by *Ismael Fernández*
+- [Programando en R](https://swirlstats.com/scn/programando.html) - (es) Programando en R by *José R Sosa*
+- [Psychology Statistics](https://swirlstats.com/scn/Psychology_Statistics.html) - Psychology Statistics by *Kevin R. Carriere*
+- [QSS](https://swirlstats.com/scn/qss.html) - qss-swirl by *Kosuke Imai*
+- [R Programming](https://swirlstats.com/scn/rprog.html) - R Programming by *Team swirl*
+- [R Programmieren](https://swirlstats.com/scn/R_Programmieren.html) - (de) R Programmieren by *Stephan Weibelzahl*
+- [R Environment](https://swirlstats.com/scn/rpe.html) - The R Programming Environment by *Roger Peng*
+- [RegEx](https://swirlstats.com/scn/regular_expressions.html) - Regular Expressions by *Jon Calder*
+- [RegModel](https://swirlstats.com/scn/regmod.html) - Regression Models by *Team swirl*
+- [Inference](https://swirlstats.com/scn/statinf.html) - Statistical Inference by *Team swirl*
+- [Short Introduction](https://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) - A (Very) Short Introduction to R by *Claudia Brauer*
+
 
 
 ### Further Resources
