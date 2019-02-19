@@ -121,12 +121,12 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 #### Made with Swirl
 - [Advanced R](https://swirlstats.com/scn/arp.html) - Advanced R Programming by *Roger Peng*
-- [ConoceR](https://swirlstats.com/scn/conocer.html) - ConoceR by *David Duncan*
+- [ConoceR](https://swirlstats.com/scn/conocer.html) - (es) ConoceR by *David Duncan*
 - [DataScience](https://swirlstats.com/scn/dsandr.html) - Data Science and R by *Wush Wu*
 - [EDA](https://swirlstats.com/scn/eda.html) - Exploratory Data Analysis by *Team swirl*
 - [GetCleanData](https://swirlstats.com/scn/getclean.html) - Getting and Cleaning Data by *Team swirl*
 - [Google Forms](https://swirlstats.com/scn/gfc.html) - Google Forms Course by *Sean Kross*
-- [Estadistica](https://swirlstats.com/scn/estadistica.html) - Programacion Estadistica R by *Ismael Fernández*
+- [Estadistica](https://swirlstats.com/scn/estadistica.html) - (es) Programacion Estadistica R by *Ismael Fernández*
 - [Programando en R](https://swirlstats.com/scn/programando.html) - (es) Programando en R by *José R Sosa*
 - [Psychology Statistics](https://swirlstats.com/scn/Psychology_Statistics.html) - Psychology Statistics by *Kevin R. Carriere*
 - [QSS](https://swirlstats.com/scn/qss.html) - qss-swirl by *Kosuke Imai*
