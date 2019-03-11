@@ -8,7 +8,7 @@ A curated list of learnR and {swirl} related resources. LearnR and {swirl} are R
 In the first part you find links to source code, documentation & community of the packages itself. In the second part we list courses made with learnR or {swirl}. A third part list further resources for learning R.
 
 
-You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
+You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.
 
 
 ## Table of Content
@@ -18,34 +18,34 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 * [Tutorials Guides & Courses](#Tutorials-Guides--Courses)
   * [Made with LearnR](#Made-with-LearnR)
-  * [Made with Swirl](#Made-with-Swirl)  
+  * [Made with Swirl](#Made-with-Swirl)
 
 * [Further Resources](#Further-Resources)
-  
+
 
 ---
- 
+
 ## Content
 ### R-Package Links
 #### LearnR Stuff
 ##### Official Links
-- [github-page](https://rstudio.github.io/learnr/) - Official Homepage of the Package. 
-- [github-repo](https://github.com/rstudio/learnr) - Official github repository. 
+- [github-page](https://rstudio.github.io/learnr/) - Official Homepage of the Package.
+- [github-repo](https://github.com/rstudio/learnr) - Official github repository.
 ##### References
 - [CRAN](https://cran.r-project.org/package=learnr) - CRAN canonical URL.
-- [rdocumentation.org](https://www.rdocumentation.org/packages/learnr) - Package Documentation. 
+- [rdocumentation.org](https://www.rdocumentation.org/packages/learnr) - Package Documentation.
 - [libraries.io](https://libraries.io/cran/learnr) - Page on Libraries.io.
 - [rdrr.io](https://rdrr.io/cran/learnr/) - Page on rdrr.io.
 
 
 #### Swirl Stuff
 ##### Official Links
-- [swirlstats.com](https://swirlstats.com/) - Official Homepage of the Package. 
-- [github-repo for package](https://github.com/swirldev/swirl) - Official github repository for the package.  
+- [swirlstats.com](https://swirlstats.com/) - Official Homepage of the Package.
+- [github-repo for package](https://github.com/swirldev/swirl) - Official github repository for the package.
 - [github-repo for swirlify](https://github.com/swirldev/swirlify) - Toolbox for writing swirl courses.
 - [github-repo for courses](https://github.com/swirldev/swirl_courses) - Official github repository for the courses, see also  [Made with Swirl](#Made-with-Swirl).
 ##### References
-- [rdocumentation.org](https://www.rdocumentation.org/packages/swirl/) - Package Documentation. 
+- [rdocumentation.org](https://www.rdocumentation.org/packages/swirl/) - Package Documentation.
 - [CRAN](https://CRAN.R-project.org/package=swirl) - CRAN canonical URL.
 - [libraries.io](https://libraries.io/cran/swirl/) - Page on Libraries.io.
 - [rdrr.io](https://rdrr.io/cran/swirl/) - Page on rdrr.io.
@@ -54,25 +54,25 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [google.group](https://groups.google.com/forum/#!forum/swirl-discuss) - Discussion Group.
 
 
-  
+
 ### Tutorials Guides & Courses
 #### Made with LearnR
 ##### Examples by RStudio
-- [Setting Up R](https://jjallaire.shinyapps.io/learnr-tutorial-00-setup/) - Set up your computer to use R, *JJ Allaire*. 
+- [Setting Up R](https://jjallaire.shinyapps.io/learnr-tutorial-00-setup/) - Set up your computer to use R, *JJ Allaire*.
 - [Data Basics](https://jjallaire.shinyapps.io/learnr-tutorial-01-data-basics) - Learn how to look at data with R, *JJ Allaire*.
-- [Filtering Observations](https://jjallaire.shinyapps.io/learnr-tutorial-03a-data-manip-filter/) - Learn how to filter your data, *JJ Allaire*.  
-- [Sumarizing Data](https://jjallaire.shinyapps.io/learnr-tutorial-03c-data-manip-summarise/) - Learn how to summarise a table of data, *JJ Allaire*.  
-- [Creating New Variables](https://jjallaire.shinyapps.io/learnr-tutorial-03b-data-manip-mutate/) - Learn how to derive new variables from a data frame, *JJ Allaire*. 
+- [Filtering Observations](https://jjallaire.shinyapps.io/learnr-tutorial-03a-data-manip-filter/) - Learn how to filter your data, *JJ Allaire*.
+- [Sumarizing Data](https://jjallaire.shinyapps.io/learnr-tutorial-03c-data-manip-summarise/) - Learn how to summarise a table of data, *JJ Allaire*.
+- [Creating New Variables](https://jjallaire.shinyapps.io/learnr-tutorial-03b-data-manip-mutate/) - Learn how to derive new variables from a data frame, *JJ Allaire*.
 
 ##### Online Courses
 - [vegawidget Overview](https://ijlyttle.shinyapps.io/vegawidget-overview/) - Learn vegawidgets, *Ian Lyttle*.
 - [Data Literacy](https://tladeras.shinyapps.io/dataLiteracy/) - Understanding Visualizations, *Ted Laderas*.
-- [OHSU Tutorial](https://minnier.shinyapps.io/ODSI_continuousData/) Tutorial for OHSU Data Science Institute, see also [github](https://github.com/laderast/DSIExplore) - *Ted Laderas* and *Jessica Minnier*. 
+- [OHSU Tutorial](https://minnier.shinyapps.io/ODSI_continuousData/) Tutorial for OHSU Data Science Institute, see also [github](https://github.com/laderast/DSIExplore) - *Ted Laderas* and *Jessica Minnier*.
 - [Tidyeval](https://ijlyttle.shinyapps.io/tidyeval/) - by *Ian Lyttle*.
 
 
 ##### Courses as package
-- [learningAnalytics](https://bradleyboehmke.github.io/learningAnalytics/) - Tutorials covering various statistical techniques by *Brad Boehmke*.  
+- [learningAnalytics](https://bradleyboehmke.github.io/learningAnalytics/) - Tutorials covering various statistical techniques by *Brad Boehmke*.
     1. “Hello”: An introduction to learningAnalytics
     2. “EDA”: Exploratory Data Analysis
     3. “Unsupervised”: Principal Components Analysis & Cluster Analysis
@@ -97,9 +97,9 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
     3. lists_and_data_frames
     4. programming
     5. plotting
-- [RKurs](https://github.com/strengejacke/RKurs) - German R Exercises by  *Daniel Lüdecke*. 
+- [RKurs](https://github.com/strengejacke/RKurs) - German R Exercises by  *Daniel Lüdecke*.
 - [YARD](https://github.com/pegeler/YARD) - Yet Another R Demo by *Paul Egeler*.
-- [adventr](https://github.com/profandyfield/adventr) - An Adventure in Statistics by *Andy Field*, see also [Book-Page](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/).  
+- [adventr](https://github.com/profandyfield/adventr) - An Adventure in Statistics by *Andy Field*, see also [Book-Page](https://www.discoveringstatistics.com/books/an-adventure-in-statistics/).
     1. Why you need science
     2. Reporting research, variables and measurement
     3. Summarizing Data
@@ -141,9 +141,10 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 
 ### Further Resources
-- [Awesome R](https://awesome-r.com/)  
-- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)  
-- [makemeanalyst](http://makemeanalyst.com/)  
-- [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
+- [Awesome R](https://awesome-r.com/)
+- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
+- [makemeanalyst](http://makemeanalyst.com/)
+- [cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
+Some Stuff at the end to check a new editor called gitpod.io. Heyhoo
