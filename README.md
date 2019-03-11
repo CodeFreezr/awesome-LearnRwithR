@@ -147,4 +147,4 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 
-Some Stuff at the end to check a new editor called gitpod.io. Heyhoo
+Some Stuff at the end to check a new editor called gitpod.io.
